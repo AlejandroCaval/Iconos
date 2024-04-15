@@ -1,0 +1,25 @@
+div{
+   
+
+    color: green;
+    font-size: 100px;
+    text-align: center;
+    
+    
+}
+div .Iconos{
+    color: blue;
+    font-size: 150px;
+    text-align: right;
+
+}
+div .icono2{
+    color: blueviolet;
+    font-size: 200px;
+    text-align: left;
+}
+div.iconos3{
+    color: chocolate;
+    font-size: 300;
+    text-align: right;
+}
